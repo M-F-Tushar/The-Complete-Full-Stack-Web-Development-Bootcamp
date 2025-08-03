@@ -60,3 +60,5 @@ To explore or contribute to this repository:
 2. **Clone the Repository**: 
    ```bash
    git clone https://github.com/M-F-Tushar/The-Complete-Full-Stack-Web-Development-Bootcamp.git
+3. ***Install Dependencies**: Navigate to project folders and run npm install for Node.js-based projects.
+4. **Run Projects**: Follow project-specific instructions in their respective folders to run applications locally or deploy them using platforms like Heroku.
